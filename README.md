@@ -17,8 +17,11 @@ Our challenge this week is to create a tutorial that explains how a specific reg
 * Then user find a section about the author and a link to the author’s GitHub profile
 
 ## Screenshots:
+<img width="1435" alt="Screenshot 2023-09-10 at 3 10 11 PM" src="https://github.com/USOYJ/regex-tutorial-gist/assets/125850331/527601d0-86ff-4e91-9f6e-e6d450b48958">
 
+<img width="1420" alt="Screenshot 2023-09-10 at 3 10 27 PM" src="https://github.com/USOYJ/regex-tutorial-gist/assets/125850331/b948dac0-7d69-4e53-b564-4f5e748e166e">
 
+<img width="1435" alt="Screenshot 2023-09-10 at 3 10 51 PM" src="https://github.com/USOYJ/regex-tutorial-gist/assets/125850331/e9a67892-6a9d-43b7-90e4-77cb34836646">
 
 
 
