@@ -21,6 +21,16 @@ Our challenge this week is to create a tutorial that explains how a specific reg
 
 
 
+
+
+
+
+
+
+## Deployed link:
+https://gist.github.com/USOYJ/91489e0befb68d9b912f26cad8654040
+
+
 ## Built With:
 - Visual Studio Code
 - GitHub Gist
