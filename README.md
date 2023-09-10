@@ -28,5 +28,5 @@ Our challenge this week is to create a tutorial that explains how a specific reg
 
 
 ## Credit
-Google
-Oyindamola Jongbo
+- Google
+- Oyindamola Jongbo
